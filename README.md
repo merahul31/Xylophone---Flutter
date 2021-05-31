@@ -16,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 
 Simply tap on the colorful notes and make the corresponding sounds.
 
-<img src="/readme_images/1" width="250">
+<img src="/readme_images/1.jpg" width="250">
